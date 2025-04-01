@@ -1,6 +1,3 @@
-# 💫 About Me:
-# 👨‍💻 Chibuzor Vitalis | Full-Stack Developer 🚀<br>
-![GIF](https://github.com/user-attachments/assets/fb035253-7cf2-43e2-9818-61c89bc4916c)
 
 
 <br> ✨ About Me<br>Hi, I'm **Chibuzor Vitalis**, a passionate **Full-Stack Web Developer** specializing in creating modern, responsive, and user-friendly applications. I'm constantly learning and experimenting with the latest technologies. Here's a glimpse into my world of development and design!<br><br>- 🌱 **Currently learning**: React, Node.js, PHP, and more!<br>- 🌐 I specialize in **HTML, CSS**, and **JavaScript** for building stunning web applications.<br>- 🔧 I love turning ideas into beautiful and functional code.<br>- 💬 Ask me about **React**, **Node.js**, **Figma**, **PHP**, **Web Development**, and **UI/UX Design**.<br>- 📫 Reach out to me at [Email](vitalisugorji1@gmail.com).
